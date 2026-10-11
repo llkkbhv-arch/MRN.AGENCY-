@@ -1,0 +1,13 @@
+# Website
+- [x] Build French agency website with services, concepts, pricing and contact pages.
+- [x] Build fictional project pages with blurred identifying information.
+- [x] Verify navigation, filters, pricing and mobile layout.
+- [x] Adapt art direction and add scroll-driven method sequence.
+- [x] Rename to mrnagency and show 3-day delivery.
+- [x] Verify scrolling, responsive layout and offer rules.
+- [x] Expand portfolio to 15 concepts and new category sections.
+- [x] Replace homepage expertise with a concise motion-design video presentation.
+- [x] Verify all concepts, category filters and video playback.
+- [x] Add floating WhatsApp contact and uploaded MRN logo with agency wordmark.
+- [x] Replace homepage full catalog with headed three-preview showcase and remove project detail tab.
+- [x] Verify contact destination, navigation and updated presentation.
