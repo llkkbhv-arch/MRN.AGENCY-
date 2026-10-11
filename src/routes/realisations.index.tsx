@@ -1,0 +1,5 @@
+import { createFileRoute } from '@tanstack/react-router'
+import { ProjectGrid } from '@/components/site/portfolio'
+import { ContactBand } from '@/components/site/sections'
+export const Route=createFileRoute('/realisations/')({head:()=>({meta:[{title:'15 concepts de sites web — mrnagency'},{name:'description',content:'15 concepts web : e-commerce, voyage, artisans, santé, sport, culture, sites créatifs et professionnels.'},{property:'og:title',content:'15 univers web — mrnagency'},{property:'og:description',content:'Huit catégories, quinze sites fictifs à découvrir.'},{property:'og:type',content:'website'},{name:'twitter:card',content:'summary_large_image'}]}),component:Page})
+function Page(){return <><section className="section-wrap page-intro"><span className="eyebrow">15 SITES / 8 UNIVERS</span><h1>Des idées.<br/><em>Du caractère.</em></h1><p>Votre activité. Son propre univers.</p><p className="concept-note">Identités floutées</p><ProjectGrid filters grouped/></section><ContactBand/></>}
